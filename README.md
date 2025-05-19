@@ -9,6 +9,7 @@ A web app that summarizes meeting recordings using Google's Gemini API.
 
 ## Setup
 
+```bash
 git clone https://github.com/Asish8880/meeting-summarizer-bot.git
 cd meeting-summarizer-bot
 pip install -r requirements.txt
